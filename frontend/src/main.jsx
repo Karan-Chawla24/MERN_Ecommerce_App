@@ -19,8 +19,8 @@ import Cart from "./components/Cart.jsx";
 import Profile from "./components/Profile.jsx";
 // import Profile from "../frontend/src/components/Profile.jsx";
 
-// export const server = "https://ecommerce-service-pn5w.onrender.com/api/v1";
-export const server = "http://localhost:5000/api/v1";
+export const server = "https://ecommerce-service-pn5w.onrender.com/api/v1";
+// export const server = "http://localhost:5000/api/v1";
 
 const router = createBrowserRouter([
   {
